@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ma7ma7
+- 👋 Hi, I’m @ma7ma7 A Software Engineer 🧑‍💻 AKA Full stack web developer
 - 👀 I’m interested in It 
-- 🌱 I’m currently learning MEARN Stack
+- 🌱 I’m currently learning Some Backend
 - 💞️ I’m looking to collaborate on React Project
 - 📫 How to reach me instagrame.com/mahmoudamane5
 
